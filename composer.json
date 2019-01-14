@@ -1,0 +1,21 @@
+{
+  "name": "oxid-social-bookmarks",
+  "description": "Social Bookmarks for OXID eShop.",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "eShop", "social bookmarks"],
+  "homepage": "https://www.oxid-responsive.com",
+  "license": [ "MIT" ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "extra": {
+    "oxideshop": {
+      "target-directory": "socialbookmarks"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+        "SocialBookmarksModule\\": "../../../source/modules/socialbookmarks"
+    }
+  }
+}
