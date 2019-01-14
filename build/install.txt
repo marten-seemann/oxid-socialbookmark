@@ -1,0 +1,4 @@
+Installation der Social Bookmarks für OXID
+
+1. Kopieren Sie den Inhalt des Ordner copy_this/ in das Hauptverzeichnis Ihres Shops.
+2. Aktivieren Sie das Modul im Shop-Backend.

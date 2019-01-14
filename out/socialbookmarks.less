@@ -1,0 +1,21 @@
+@import "elements.less"; // useful mixins
+@import "img.less";
+
+.more_socialbookmarks {
+  > a, div {
+    float: left;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    .opacity(0.5);
+    .transition(0.4s);
+
+    &:not(:last-child) {
+      margin-right: 4px;
+    }
+
+    &:hover {
+      background-color: white;
+      .opacity(1);
+    }
+  }
+}

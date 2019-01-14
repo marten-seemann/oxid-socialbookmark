@@ -1,0 +1,6 @@
+build/tmp
+build/productive
+build/socialbookmarks
+build/*.zip
+
+build/SocialBookmarks*
