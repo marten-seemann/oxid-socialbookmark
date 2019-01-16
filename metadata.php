@@ -23,7 +23,7 @@ $aModule = array(
         ],
     ],
     'extend' => [
-        \OxidEsales\Eshop\Application\Model\Article::class => \SocialBookmarksModule\Model\Article::class,
+        \OxidEsales\Eshop\Application\Model\Article::class => \SeemannIT\SocialBookmarksModule\Model\Article::class,
     ],
     'settings'     => [
         [ 
@@ -147,6 +147,6 @@ $aModule = array(
         ],
     ],
     'templates' => array(
-        "socialbookmarks.tpl" => "socialbookmarks/out/blocks/socialbookmarks.tpl"
+        "socialbookmarks.tpl" => "seemannit/socialbookmarks/out/blocks/socialbookmarks.tpl"
         ),
 );

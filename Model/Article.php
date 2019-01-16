@@ -1,5 +1,5 @@
 <?php
-namespace SocialBookmarksModule\Model;
+namespace SeemannIT\SocialBookmarksModule\Model;
 
 class Article extends Article_parent {
     public function getSocialBookmarkSetting($sVar) {

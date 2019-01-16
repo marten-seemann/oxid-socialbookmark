@@ -1,5 +1,5 @@
 {
-  "name": "oxid-social-bookmarks",
+  "name": "seemannit/oxid-social-bookmarks",
   "description": "Social Bookmarks for OXID eShop.",
   "type": "oxideshop-module",
   "keywords": ["oxid", "modules", "eShop", "social bookmarks"],
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-        "SocialBookmarksModule\\": "../../../source/modules/socialbookmarks"
+        "SeemannIT\\SocialBookmarksModule\\": "../../../source/modules/seemannit/socialbookmarks"
     }
   }
 }
