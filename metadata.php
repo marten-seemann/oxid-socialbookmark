@@ -12,7 +12,7 @@ $aModule = array(
         'de' => 'Social Bookmarks für OXID - Twitter, Pinterest, LinkedIn, XING und viele andere'
     ],
     'thumbnail'    => 'picture.png',
-    'version'      => '2.1',
+    'version'      => '3.0',
     'author'       => 'Marten Seemann',
     'url'          => 'https://www..oxid-responsive.com',
     'blocks'       => [
