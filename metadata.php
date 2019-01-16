@@ -14,7 +14,7 @@ $aModule = array(
     'thumbnail'    => 'picture.png',
     'version'      => '2.1',
     'author'       => 'Marten Seemann',
-    'url'          => 'http://shop.oxid-responsive.com',
+    'url'          => 'https://www..oxid-responsive.com',
     'blocks'       => [
         [
             'template' => 'page/details/inc/productmain.tpl',
